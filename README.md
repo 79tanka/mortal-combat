@@ -1,6 +1,6 @@
 # Mortal Combat -учебный проект Glo Academy
 ## Выполнила прект -Я
-###Т ехнологии:
+### Технологии:
 - HTML
 - CSS
 - Normolize
