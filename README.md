@@ -1,4 +1,8 @@
-# Mortal Combat -учебный проект Glo Academy
+# 🎞 mortal-combat 
+## film promo-page
+
+
+ учебный проект Glo Academy
 ## Выполнила прект -Я
 ### Технологии:
 - HTML
